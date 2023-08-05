@@ -1,6 +1,6 @@
 {
   "name": "check-disposable-email",
-  "version": "1.0.1",
+  "version": "1.0.6",
   "description": "An NPM package that allows you to check whether an email address is disposable or temporary. It provides a simple and reliable way to detect email addresses associated with disposable email services commonly used for one-time registrations, spam, or temporary access.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -25,7 +25,7 @@
     "email validation"
   ],
   "author": "Abdan Zam Zam Ramadhan",
-  "type": "module",
+  "type": "commonjs",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/abdanzamzam/check-disposable-email/issues"
