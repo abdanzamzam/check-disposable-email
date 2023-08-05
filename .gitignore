@@ -1,0 +1,23 @@
+# Ignore Node.js build files
+node_modules/
+dist/
+
+# Ignore development files
+*.log
+*.vscode/
+*.idea/
+*.DS_Store
+
+# Ignore npm and yarn lock files
+package-lock.json
+yarn.lock
+yarn-error.log
+
+# Ignore build artifacts and compiled TypeScript files
+build/
+*.js
+*.js.map
+*.d.ts
+
+# Ignore test result files
+coverage/
